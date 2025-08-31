@@ -1,0 +1,53 @@
+body {
+    
+    text-align: center;
+    font: size 60px;
+    background-image:url(back.png);
+    background-size: cover;
+    max-width: 100%;
+  
+}
+h1{
+
+    font-family:'Courier New', Courier, monospace;
+    text-decoration: maroon underline;
+    background-color: rgb(230, 104, 104);
+    border-radius: 32px;
+    text-align: center;
+}
+h4{
+    font-family:'Times New Roman';
+    
+}
+h3 {
+    font-family: 'Courier New';
+    text-decoration: maroon underline;
+    
+    
+    
+    
+    
+} 
+img { 
+    height: 200px;
+    text-align: center;
+    border: 2px black;
+    
+    
+}
+.name{
+    text-shadow: black 2px 2px 5px;
+    font-size: 50px;
+}
+
+li {
+    list-style-position: inside;
+    list-style-type: none;
+}
+
+div{
+    background-color:wheat;
+    border-radius: 7px;
+    width: 50%;
+    text-align: center;
+}
